@@ -1,0 +1,11 @@
+D:\Projects\Lab05LibZavd\bin\Debug\net8.0\Lab05LibZavd.deps.json
+D:\Projects\Lab05LibZavd\bin\Debug\net8.0\Lab05LibZavd.dll
+D:\Projects\Lab05LibZavd\bin\Debug\net8.0\Lab05LibZavd.pdb
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\Lab05LibZavd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\Lab05LibZavd.AssemblyInfoInputs.cache
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\Lab05LibZavd.AssemblyInfo.cs
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\Lab05LibZavd.csproj.CoreCompileInputs.cache
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\Lab05LibZavd.dll
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\refint\Lab05LibZavd.dll
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\Lab05LibZavd.pdb
+D:\Projects\Lab05LibZavd\obj\Debug\net8.0\ref\Lab05LibZavd.dll
